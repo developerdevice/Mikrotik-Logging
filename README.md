@@ -35,7 +35,7 @@ Na pasta `yourfolder/bin` abra o arquivo auxiliar `server.php` onde há duas pro
 | listen   | Porta onde o servidor responderá     | 9999   |
 | bindomain    | Permite conexão apenas a um cliente definido      | 0.0.0.0 (all)      |
 
-Para iniciar o serviço, abra um terminal e vá até a pasta onde você baixou a biblioteca, nele execute `cd suaasta/Mikrotik-Logging/bin/server.php` - se retorna algo como `Waiting for data ...`, está tudo certo.
+Para iniciar o serviço, abra um terminal e vá até a pasta onde você baixou a biblioteca, nele execute `php suaasta/Mikrotik-Logging/bin/server.php` - se retorna algo como `Waiting for data ...`, está tudo certo.
 
 ## Mikrotik Client
 
